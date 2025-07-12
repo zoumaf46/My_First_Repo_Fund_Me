@@ -14,12 +14,7 @@ docs/
 # Dotenv file
 .env
 
-/lib
-
-.keystore
 
 broadcast/
 lib/
 
-.DS_Store
-zkout/
